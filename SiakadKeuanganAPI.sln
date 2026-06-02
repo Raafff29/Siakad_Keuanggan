@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiakadKeuanganAPI", "SiakadKeuanganAPI.csproj", "{2FFBBA50-A165-48CE-A598-110A45E5E19D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FFBBA50-A165-48CE-A598-110A45E5E19D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FFBBA50-A165-48CE-A598-110A45E5E19D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FFBBA50-A165-48CE-A598-110A45E5E19D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FFBBA50-A165-48CE-A598-110A45E5E19D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D98B40A-3347-46D6-8936-FD947C9E3F7D}
+	EndGlobalSection
+EndGlobal
